@@ -1,2 +1,3 @@
-# pharo-gsoc-2021
-Preparing the application of Pharo Org for GSoC 2021
+# Application of Pharo Org for GSoC 2021
+
+In this repository, we collaborate on the documents that will be used for the GSoC 2021 applycation of Pharo Consortium.
