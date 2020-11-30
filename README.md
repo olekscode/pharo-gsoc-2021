@@ -1,6 +1,6 @@
 # Application of Pharo Consorcium for GSoC 2021
 
-In this repository, we collaborate on the documents that will be used for the [Google Summer of Code 2021](https://summerofcode.withgoogle.com/) applycation by Pharo Consortium.
+In this repository, we collaborate on the documents that will be used for the [Google Summer of Code 2021](https://summerofcode.withgoogle.com/) application by Pharo Consortium.
 
 ## GSoC 2021 Timeline
 
