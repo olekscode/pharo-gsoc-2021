@@ -18,3 +18,13 @@ Please refer to the main [Google Summer of Code 2021 Timeline](https://developer
 ## GSoC Guides
 
 - [Org Application](https://google.github.io/gsocguides/mentor/org-application.html)
+
+## Our Previous Participation in GSoC
+
+- [2019 as Pharo Consortium](https://summerofcode.withgoogle.com/archive/2019/organizations/6725431019962368/)
+- [2017 as Pharo Consortium](https://summerofcode.withgoogle.com/archive/2017/organizations/5691803940421632/)
+- [2013 as European Smalltalk User Group (ESUG)](https://www.google-melange.com/archive/gsoc/2013/orgs/esug)
+- [2012 as European Smalltalk User Group (ESUG)](https://www.google-melange.com/archive/gsoc/2012/orgs/esug)
+- [2010 as European Smalltalk User Group (ESUG)](https://www.google-melange.com/archive/gsoc/2010/orgs/esug)
+- [2008 as The Squeak Project](https://developers.google.com/open-source/gsoc/2008)
+- [2007 as The Squeak Project](https://developers.google.com/open-source/gsoc/2007)
